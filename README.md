@@ -32,5 +32,8 @@ The used version is  `1.0.4`
 Open Monitor Hardware launched on :8085 port
 Python script getting infos from open Hardware local server and sending it to ESP32.
 
+### Final aspect
 
 
+[<img src="img/img1.jpg">]
+[<img src="img/img2.jpg">]
