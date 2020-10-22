@@ -6,8 +6,8 @@
 
 #include <ArduinoJson.h>
 
-const char * ssid = "Jean Bob 2.4";
-const char * password = "poupidoupidou!!";
+const char * ssid = "ssid";
+const char * password = "***";
 
 TFT_eSPI tft = TFT_eSPI();
 AsyncWebServer server(80);
