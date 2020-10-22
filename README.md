@@ -2,6 +2,8 @@
 
 PC temperature monitoring
 
+CPU and GPU are displayed in different color rectangle depending of the heat criticity
+
 ## I. Hardware
 
 TTGO - T-Display ESP32 Wifi & Bluetooth 1.14 inches LCD
