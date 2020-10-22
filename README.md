@@ -35,5 +35,5 @@ Python script getting infos from open Hardware local server and sending it to ES
 ### Final aspect
 
 
-[<img src="img/img1.jpg">]
-[<img src="img/img2.jpg">]
+<img src="img/img1.jpg">
+
