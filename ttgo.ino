@@ -6,8 +6,8 @@
 
 #include <ArduinoJson.h>
 
-const char * ssid = "SSID";
-const char * password = "****";
+const char * ssid = "Jean Bob 2.4";
+const char * password = "poupidoupidou!!";
 
 TFT_eSPI tft = TFT_eSPI();
 AsyncWebServer server(80);
@@ -55,6 +55,8 @@ void printToscreen(uint8_t * data) {
 
   int GPU = obj["GPU"];
   int CPU = obj["CPU"];
+
+  Serial.print(GPU);
 
   drawRectangle(CPU, "CPU", 0, 0, 120, 135);
   drawRectangle(GPU, "GPU", 120, 0, 120, 135);
